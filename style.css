@@ -1,0 +1,196 @@
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+
+.header{
+    background: pink;
+    margin: 2px;
+    padding: 4px;
+    text-align: right;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    top: -10px;
+    left: -5px;
+}
+
+
+.header li{
+    position: relative;
+    justify-content: space-between;
+    display: inline-flex;
+    padding: 20px;
+    width: 8%;
+    text-decoration: bold;
+    font-weight: 500;
+
+}
+    
+
+
+.content{
+    position:fixed ;
+    right: -0%;
+    bottom: -10%;
+}
+
+.content h1{
+    position: relative;
+    padding: 30px;
+    bottom: -70px;
+    font-size: 20px;
+}
+
+
+.content p{
+    position: relative;
+    padding: -80px;
+    margin: -30px;
+    font-size: 20px;
+    bottom: -80px;
+}
+
+.content h2{
+    position: relative;
+    padding: 30px;
+    font-size: 15px;
+    opacity: 50%;
+    bottom: -90px;
+}
+
+.content button{
+    position: relative;
+    background: pink;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 1px;
+    border: 90px;
+    width: 100px;
+    text-decoration: solid;
+    bottom: -80px;
+    transition: 3s;
+}
+
+.content button:hover::before{
+    color: black;
+
+}
+
+.content .next{
+    position: relative;
+    bottom: -100px;
+    left: -160px;
+    opacity: 50%;
+}
+
+
+.right button{
+    position: relative;
+    padding: 20px;
+    right: -342px;
+    width: 2%;
+    top: -140px;
+}
+
+.left button{
+    position: relative;
+    left: -900px;
+    width: 2%;
+    top: -270px;
+}
+
+
+.icon{
+    position: relative;
+    padding: 10px;
+    bottom: -35px;
+
+}
+
+.circle{
+    position: relative;
+    background: pink;
+    padding: 40px;
+    bottom: -150px;
+    left: 200px;
+    width: 150px;
+    height: 150px;
+    border: 30px;
+    border-radius: 150px;
+}
+
+
+.pic img{
+    position: absolute;
+    padding: 20px;
+    width: 17%;
+    left: 190px;
+    top: 210px;
+    fill: black;
+    border-radius: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
